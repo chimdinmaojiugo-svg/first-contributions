@@ -40,3 +40,6 @@ Format to contribute:
 [Rahul Nawale](https://github.com/blackcat)
 
 [Tamunodein Jedidiah Anyanwu](https://github.com/PrinceOdein)
+
+
+[Sam](https://github.com/HackersSpirit)
